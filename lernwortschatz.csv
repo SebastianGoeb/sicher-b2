@@ -1,43 +1,43 @@
-﻿KB Seite,Deutsch,Englisch
-13,die Herkunft (Sg.),
-13,"das Motiv, -e",
-13,"entwerfen, entwarf, hat entworfen",
-13,kommentieren,
-14-15,"die Alternative, -n",
-14-15,"die Aufzählung, -en",
-14-15,"die Einschränkung, -en",
-14-15,"der Gegensatz, -¨e",
-14-15,"der Geschmack, -¨er",
-14-15,denselben Geschmack haben,
-14-15,"das Missverständnis, -se",
-14-15,"die Neuigkeit, -en",
-14-15,Neuigkeiten austauschen,
-14-15,"die Umfrage, -n",
-14-15,anvertrauen,
-14-15,jemandem etwas ausmachen,
-14-15,bezeichnen,
-14-15,"sich verlassen auf (+Akk.), verließ, hat verlassen",
-14-15,"verstehen unter (+Dat.), verstand, hat verstanden",
-14-15,hin- und hergerissen sein,
-14-15,"(sich) aus den Augen verlieren, verlor, hat verloren",
-14-15,einerseits – andererseits,
-14-15,entweder – oder,
-14-15,nicht nur – sondern auch,
-14-15,sowohl – als auch,
-14-15,weder – noch,
-14-15,zwar – aber,
-16-17,"der Auftrag, -¨e",
-16-17,"in Auftrag geben, gab, hat gegeben",
-16-17,die Daten (Pl.),
-16-17,Daten auswerten,
-16-17,Daten erfassen,
-16-17,die Erdbevölkerung (Sg.),
-16-17,"der Fakt, -en",
-16-17,"die Freundschatsanfrage, -n",
-16-17,"der Nutzer, -",
-16-17,"die Redensart, -en",
-16-17,ermöglichen,
-16-17,vernetzt sein,
-16-17,"über sechs Ecken kennen, kannte, hat gekannt",
-16-17,mittlerweile,
-18-19,,
+﻿Deutsch,Englisch,Tags,KB Seite
+die Herkunft (Sg.),origin,,13
+"das Motiv, -e",motif,,13
+"entwerfen, entwarf, hat entworfen",to design,,13
+kommentieren,to comment,,13
+"die Alternative, -n",alternative,,14-15
+"die Aufzählung, -en",enumeration,,14-15
+"die Einschränkung, -en",restriction,,14-15
+"der Gegensatz, -¨e","contrast, contradiction",,14-15
+"der Geschmack, -¨er",taste,,14-15
+denselben Geschmack haben,to have the same taste,,14-15
+"das Missverständnis, -se",misunderstanding,,14-15
+"die Neuigkeit, -en",news,,14-15
+Neuigkeiten austauschen,to exchange news,,14-15
+"die Umfrage, -n","survey, poll",,14-15
+anvertrauen,"to confide, to entrust",,14-15
+jemandem etwas ausmachen,[would] anyone mind,,14-15
+bezeichnen,"to denote, to refer to",,14-15
+"sich verlassen auf (+Akk.), verließ, hat verlassen",to rely on,,14-15
+"verstehen unter (+Dat.), verstand, hat verstanden",to be understood as,,14-15
+hin- und hergerissen sein,to be torn [between],,14-15
+"(sich) aus den Augen verlieren, verlor, hat verloren",to lose sight [of],,14-15
+einerseits – andererseits,on the one hand – on the other hand,,14-15
+entweder – oder,either – or,,14-15
+nicht nur – sondern auch,not only – but also,,14-15
+sowohl – als auch,both – and,,14-15
+weder – noch,neither – nor,,14-15
+zwar – aber,[indeed] – but,,14-15
+"der Auftrag, -¨e",commission,,16-17
+"in Auftrag geben, gab, hat gegeben",to commission,,16-17
+die Daten (Pl.),data,,16-17
+Daten auswerten,to evaluate data,,16-17
+Daten erfassen,to collect data,,16-17
+die Erdbevölkerung (Sg.),global population,,16-17
+"der Fakt, -en",fact,,16-17
+"die Freundschaftsanfrage, -n",friend request,,16-17
+"der Nutzer, -",user,,16-17
+"die Redensart, -en","idiom, figure of speech",,16-17
+ermöglichen,to enable,,16-17
+vernetzt sein,to be connected,,16-17
+"über sechs Ecken kennen, kannte, hat gekannt",to be no more than six degrees of separation apart,,16-17
+mittlerweile,by now,,16-17
+,,,18-19
