@@ -1,7 +1,5 @@
 === Sicher! B2
 
-==== Lernwortschatz
-
 [%header,format=csv]
 |===
 include::lernwortschatz.csv[]
