@@ -3,3 +3,10 @@
 *.iml
 
 tmp/
+
+# php composer
+vendor/
+
+# anki-dm
+build/
+original/
