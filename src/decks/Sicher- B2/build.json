@@ -1,0 +1,21 @@
+{
+  "deck": {
+    "uuid": "268befe6-4a86-11eb-9a78-8c859047b34e"
+  },
+  "config": {
+    "uuid": "268bf662-4a86-11eb-9a78-8c859047b34e",
+    "name": "Default"
+  },
+  "model": {
+    "uuid": "268c5db4-4a86-11eb-9a78-8c859047b34e",
+    "name": "Basic (and reversed card)"
+  },
+  "fields": [
+    "Front",
+    "Back"
+  ],
+  "templates": [
+    "Card 1",
+    "Card 2"
+  ]
+}

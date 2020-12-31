@@ -1,7 +1,7 @@
-﻿die Herkunft (Sg.),origin,Lektion_1 Einstiegsseite
-"das Motiv, -e",motif,Lektion_1 Einstiegsseite
-"entwerfen, entwarf, hat entworfen","to create, to design",Lektion_1 Einstiegsseite
-kommentieren,to comment,Lektion_1 Einstiegsseite
+﻿die Herkunft (Sg.),origin,Lektion_1 Einstieg
+"das Motiv, -e",motif,Lektion_1 Einstieg
+"entwerfen, entwarf, hat entworfen","to create, to design",Lektion_1 Einstieg
+kommentieren,to comment,Lektion_1 Einstieg
 "die Alternative, -n",alternative,Lektion_1 Sprechen_1
 "die Aufzählung, -en",enumeration,Lektion_1 Sprechen_1
 "die Einschränkung, -en",restriction,Lektion_1 Sprechen_1
@@ -83,8 +83,111 @@ rücksichtslos/-voll,in-/considerate,Lektion_1 Sprechen_2
 "die Rückseite, -n",back side,Lektion_1 Schreiben
 "die Vorderseite, -n",front side,Lektion_1 Schreiben
 bewerten,"to assess, to rate",Lektion_1 Schreiben
-Kontakte pflegen,"socialize, foster relationships",Lektion_1 Schreiben
+Kontakte pflegen,"to socialize, foster relationships",Lektion_1 Schreiben
 "der Besen, -",broom,Lektion_1 Sehen_und_Hören
 sorgen für,to care for,Lektion_1 Sehen_und_Hören
-(sich) vertraut machen mit,so familiarise oneself with,Lektion_1 Sehen_und_Hören
+(sich) vertraut machen mit,"to familiarise oneself with, to get to know",Lektion_1 Sehen_und_Hören
 mental,mental,Lektion_1 Sehen_und_Hören
+"der Arbeitstag, -e",work day,Lektion_2 Einstieg
+"die Reparatur, -en",repair,Lektion_2 Einstieg
+"die Anforderung, -en","requirement, demand",Lektion_2 Sprechen_1
+"der Bereich, -e","department, area",Lektion_2 Sprechen_1
+"das Bundesgebiet, -e",federal territory,Lektion_2 Sprechen_1
+"die Klinik, -en",clinic,Lektion_2 Sprechen_1
+"das Konzept, -e",concept,Lektion_2 Sprechen_1
+"die Messe, -n","trade fair, exhibition",Lektion_2 Sprechen_1
+"die Schicht, -en",shift,Lektion_2 Sprechen_1
+"der Schichtdienst, -e","shift duty, to work in shifts",Lektion_2 Sprechen_1
+"die Spontaneität, -en",spontaneity,Lektion_2 Sprechen_1
+"das Unternehmen, -","company, business",Lektion_2 Sprechen_1
+"die Visitenkarte, -n",business card,Lektion_2 Sprechen_1
+"die Vorlesung, -en",lecture,Lektion_2 Sprechen_1
+erläutern,to explain,Lektion_2 Sprechen_1
+forschen,to research,Lektion_2 Sprechen_1
+knüpfen,"to tie, to knot",Lektion_2 Sprechen_1
+Kontakte knüpfen,"to socialize, make new contacts",Lektion_2 Sprechen_1
+mobil sein,to be mobile,Lektion_2 Sprechen_1
+"ins Stocken geraten, geriet, ist geraten",to come to a halt,Lektion_2 Sprechen_1
+zur Verfügung haben,to have available,Lektion_2 Sprechen_1
+"die Ablage, -en","files, storage",Lektion_2 Wortschatz
+"der Assistant, -en",assistant,Lektion_2 Wortschatz
+"der Bereichsleiter, -",head of [a] division,Lektion_2 Wortschatz
+"die Konferenz, -en",conference,Lektion_2 Wortschatz
+"die Position, -en","position, job",Lektion_2 Wortschatz
+"der Projektleiter, -","project manager, project supervisor",Lektion_2 Wortschatz
+"die Unterlage, -n",document,Lektion_2 Wortschatz
+(sich) durchsetzen,"to assert oneself, to get one's (own) way",Lektion_2 Wortschatz
+dominant,dominant,Lektion_2 Wortschatz
+durchsetzungsstark,assertive,Lektion_2 Wortschatz
+ehrgeizig,"eager, ambitious",Lektion_2 Wortschatz
+strukturiert,structured,Lektion_2 Wortschatz
+teamfähig,"able to work in a team, team player, team-minded",Lektion_2 Wortschatz
+unabhängig,independent,Lektion_2 Wortschatz
+"die Arbeitskraft, -¨e","worker, employee",Lektion_2 Hören
+"der Effekt, -e",effect,Lektion_2 Hören
+"die Motivation, -en",motivation,Lektion_2 Hören
+"die Reportage, -n","report, coverage",Lektion_2 Hören
+"der Therapeut, -en",therapist,Lektion_2 Hören
+"der Zusammenbruch, -¨e","breakdown, collapse",Lektion_2 Hören
+spüren,to feel,Lektion_2 Hören
+erfahren sein (in) (+Dat.),to be experienced [in],Lektion_2 Hören
+begeistert,"impressed, overjoyed",Lektion_2 Hören
+"die Persönlichkeit, -en",personality,Lektion_2 Lesen_1
+"die Steigerung, -en","increase, growth",Lektion_2 Lesen_1
+"der Umsatz, -¨e",revenue,Lektion_2 Lesen_1
+"die Werbeaktion, -en",advertising campaign,Lektion_2 Lesen_1
+erfüllen,"to fulfill, to satisfy",Lektion_2 Lesen_1
+"hinterlassen, hinterließ, hat hinterlassen",to leave behind,Lektion_2 Lesen_1
+sich spezialisieren auf (+Akk.),to specialize [in],Lektion_2 Lesen_1
+verdreifachen,to triple,Lektion_2 Lesen_1
+"am Laufen halten, hielt, hat gehalten/",to keep [sth.] going/running,Lektion_2 Lesen_1
+kreativ,creative,Lektion_2 Lesen_1
+ungezwungen,"informal, casual",Lektion_2 Lesen_1
+unkonventionell,unconventional,Lektion_2 Lesen_1
+"das Gewissen, -",conscience,Lektion_2 Schreiben
+die Offenheit (Sg.),openness,Lektion_2 Schreiben
+"das Stichwort, -e",keyword,Lektion_2 Schreiben
+"der Zulieferer, -","supplier, subcontractor",Lektion_2 Schreiben
+beschweren,to complain,Lektion_2 Schreiben
+nummerieren,to number,Lektion_2 Schreiben
+"vergessen, vergaß, hat vergessen",to forget,Lektion_2 Schreiben
+zusammenarbeiten,to work together,Lektion_2 Schreiben
+ein Gespräch führen,"to make conversation, to have a talk [with sb.]",Lektion_2 Schreiben
+"sich die Zeit vertreiben, vertieb, hat vertrieben",to pass one's time,Lektion_2 Schreiben
+aufgrund,"because of, due to, based on",Lektion_2 Schreiben
+ausführlich,"extensive, detailed",Lektion_2 Schreiben
+dank,"thanks to, owing to, due to",Lektion_2 Schreiben
+zumindest,at least,Lektion_2 Schreiben
+"das Arbeitsgericht, -e",labor court,Lektion_2 Lesen_2
+"der Arbeitsrechtler, -",employment lawyer,Lektion_2 Lesen_2
+die Aufregung (Sg.),excitement,Lektion_2 Lesen_2
+das Aufsehen,sensation,Lektion_2 Lesen_2
+Aufsehen erregen,to cause a sensation,Lektion_2 Lesen_2
+"die Besprechung, -en","meeting, conference",Lektion_2 Lesen_2
+"das Einverständnis, -se",consent,Lektion_2 Lesen_2
+"der Fachanwalt, -¨e",specialized lawyer,Lektion_2 Lesen_2
+"die Genehmigung, -en","approval, permit",Lektion_2 Lesen_2
+"der Keks, -e",cookie,Lektion_2 Lesen_2
+"die Sitte, n","custom, tradition",Lektion_2 Lesen_2
+"aufladen, lud auf, hat aufgeladen","to charge, to recharge",Lektion_2 Lesen_2
+sich befassen mit,to deal with [sth.],Lektion_2 Lesen_2
+erwähnen,to mention,Lektion_2 Lesen_2
+naschen,to snack,Lektion_2 Lesen_2
+Bedenken äußern,to voice concerns,Lektion_2 Lesen_2
+den Job kosten,to cost/lose [sb.] their job,Lektion_2 Lesen_2
+ausdrücklich,"explicitly, expressly",Lektion_2 Lesen_2
+bedenklich,questionable,Lektion_2 Lesen_2
+fristlos,without notice,Lektion_2 Lesen_2
+(un)üblich,"(un)usual, (un)common",Lektion_2 Lesen_2
+eine Reihe von,"a number of, a series of",Lektion_2 Lesen_2
+"das Amt, die Ämter","office, department, bureau",Lektion_2 Sehen_und_Hören
+"der Geschäftspartner, -","business partner, business associate",Lektion_2 Sehen_und_Hören
+"der Kunde, -n",customer,Lektion_2 Sehen_und_Hören
+"der Lieferant, -en","supplier, deliverer",Lektion_2 Sehen_und_Hören
+"der Vorgesetzte, -n","superior, boss",Lektion_2 Sehen_und_Hören
+"die Arbeitswelt, -en","working world, work environment",Lektion_2 Sprechen_2
+"die Landschaft, -en",landscape,Lektion_2 Sprechen_2
+der Wandel (Sg.),"transition, change, policy shift",Lektion_2 Sprechen_2
+"einfallen, fiel ein, ist eingefallen",to come to mind,Lektion_2 Sprechen_2
+vorbereiten,to prepare,Lektion_2 Sprechen_2
+heutzutage,"nowadays, these days",Lektion_2 Sprechen_2
