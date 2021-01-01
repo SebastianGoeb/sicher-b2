@@ -8,14 +8,14 @@
   },
   "model": {
     "uuid": "268c5db4-4a86-11eb-9a78-8c859047b34e",
-    "name": "Basic (and reversed card)"
+    "name": "Sicher Aktuell B2 Vocab"
   },
   "fields": [
-    "Front",
-    "Back"
+    "German",
+    "English"
   ],
   "templates": [
-    "Card 1",
-    "Card 2"
+    "English - German",
+    "German - English"
   ]
 }
