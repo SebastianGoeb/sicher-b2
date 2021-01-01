@@ -1,3 +1,3 @@
 === Sicher Aktuell B2
 
-Deck managed using anki-dm. Import using CrowdAnki Plugin.
+Decks managed using anki-dm. Import using CrowdAnki Plugin.
