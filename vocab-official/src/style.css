@@ -1,8 +1,17 @@
 .card {
  font-family: arial;
- font-size: 20px;
- text-align: center;
+ font-size: 16px;
  color: black;
  background-color: white;
 }
+
+.word {
+ font-size: 1.5em;
+}
+
+.example {
+ font-size: 0.8em;
+ color: #888;
+}
+
 
