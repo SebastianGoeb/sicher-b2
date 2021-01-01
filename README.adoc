@@ -1,17 +1,3 @@
-=== Sicher! B2
+=== Sicher Aktuell B2
 
-[%header,format=csv]
-|===
-include::lernwortschatz.csv[]
-|===
-
-==== Importing into Anki
-
-* Import File
-* Type: Basic (and reversed card)
-* Fields separated by comma
-* Update existing notes when first field matches
-* Field mapping:
-** Field 1: Front
-** Field 2: Back
-** Field 3: Tags
+Deck managed using anki-dm. Import using CrowdAnki Plugin.
