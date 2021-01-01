@@ -12,7 +12,10 @@
   },
   "fields": [
     "German",
-    "English"
+    "German Definition",
+    "German Example",
+    "English",
+    "English Example"
   ],
   "templates": [
     "English - German",
